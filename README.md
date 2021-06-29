@@ -3,6 +3,8 @@ Neighbourhood coffee shop
 <br>
 <br>
 A fully responsive webpage built using Bootstrap and Jquery. Features a collapsible menu with Google Maps API integration.
+<br>
+View at https://kakiewong.github.io/joe_boost/
 <h2>Landing</h2>
 <img src="https://i.ibb.co/fxrq3XW/landing.png" alt="landing" border="0" width="500">
 <h2>Menu</h2>
